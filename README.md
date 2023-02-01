@@ -1,7 +1,10 @@
-### Java repository with implementations of well-known Algorithms and Data Structures. 
+### Java repository with implementations of well-known Algorithms and Data Structures (starting 2022). 
 
-##### I have used the following GitHub handles in the past and I'll merge all code here in due time.
+##### GitHub handles used by me in the past are found below. 
+### I'll merge all algorithm implementations to this repository in due time.
 
+##### https://github.com/eamritadutta/Code
 ##### https://github.com/brookedutta
 ##### https://github.com/amydutta
-##### https://github.com/eamritadutta
+
+https://github.com/eamritadutta
